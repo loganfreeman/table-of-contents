@@ -1,0 +1,8 @@
+- [projects](https://github.com/loganfreeman/projects)
+- [nodejs](https://github.com/loganfreeman/nodejs)
+- [php](https://github.com/loganfreeman/php)
+- [bash](https://github.com/loganfreeman/bash)
+- [front end](https://github.com/loganfreeman/front-end)
+- [maching learning](https://github.com/loganfreeman/machine-learning-for-software-engineers)
+- [configuration](https://github.com/loganfreeman/configuration)
+- [](https://github.com/loganfreeman/wepy)
