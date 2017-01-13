@@ -5,4 +5,4 @@
 - [front end](https://github.com/loganfreeman/front-end)
 - [maching learning](https://github.com/loganfreeman/machine-learning-for-software-engineers)
 - [configuration](https://github.com/loganfreeman/configuration)
-- [](https://github.com/loganfreeman/wepy)
+- [wechat](https://github.com/loganfreeman/wechat-small-app)
