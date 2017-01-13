@@ -1,4 +1,5 @@
 - [projects](https://github.com/loganfreeman/projects)
+- [exercise](https://github.com/loganfreeman/exercise)
 - [nodejs](https://github.com/loganfreeman/nodejs)
 - [php](https://github.com/loganfreeman/php)
 - [bash](https://github.com/loganfreeman/bash)
