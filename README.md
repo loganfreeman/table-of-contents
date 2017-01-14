@@ -21,3 +21,4 @@
 - [go](https://github.com/loganfreeman/go)
 - [scala](https://github.com/loganfreeman/scala)
 - [algorithms](https://github.com/loganfreeman/algorithms)
+- [java](https://github.com/loganfreeman/java8-tutorial)
