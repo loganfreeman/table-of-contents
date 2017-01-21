@@ -1,4 +1,6 @@
 # table-of-contents
+- [blogs](https://github.com/loganfreeman/engineering-blogs)
+- [dockerfiles](https://github.com/loganfreeman/dockerfiles)
 - [projects](https://github.com/loganfreeman/projects)
 - [exercise](https://github.com/loganfreeman/exercise)
 - [nodejs](https://github.com/loganfreeman/nodejs)
