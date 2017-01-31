@@ -6,7 +6,7 @@
 - [nodejs](https://github.com/loganfreeman/nodejs)
 - [php](https://github.com/loganfreeman/php)
 - [bash](https://github.com/loganfreeman/bash)
-- [front end](https://github.com/loganfreeman/front-end)
+- [html5](https://github.com/loganfreeman/html5)
 - [maching learning](https://github.com/loganfreeman/machine-learning-for-software-engineers)
 - [configuration](https://github.com/loganfreeman/configuration)
 - [wechat](https://github.com/loganfreeman/wechat-small-app)
