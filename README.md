@@ -26,3 +26,5 @@
 - [java](https://github.com/loganfreeman/java8-tutorial)
 - [ionic](https://github.com/candelibas/awesome-ionic2)
 - [e-commerce](https://github.com/loganfreeman/e-commerce/tree/master)
+- [streaming](https://github.com/manuzhang/awesome-streaming)
+- [linux](https://github.com/aleksandar-todorovic/awesome-linux)
