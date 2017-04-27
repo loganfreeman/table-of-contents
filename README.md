@@ -1,4 +1,5 @@
 # table-of-contents
+- [angular2](https://github.com/loganfreeman/angular2)
 - [成为专业程序员路上用到的各种优秀资料、神器及框架](https://github.com/loganfreeman/be-a-professional-programmer)
 - [blogs](https://github.com/loganfreeman/engineering-blogs)
 - [dockerfiles](https://github.com/loganfreeman/dockerfiles)
