@@ -32,3 +32,5 @@
 - [linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+- [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
+- [Awesome-arduino](https://github.com/Lembed/Awesome-arduino)
