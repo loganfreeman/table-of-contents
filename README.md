@@ -31,3 +31,4 @@
 - [streaming](https://github.com/manuzhang/awesome-streaming)
 - [linux](https://github.com/aleksandar-todorovic/awesome-linux)
 - [awesome-compilers](https://github.com/aalhour/awesome-compilers)
+- [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
