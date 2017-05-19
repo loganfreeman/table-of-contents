@@ -34,3 +34,4 @@
 - [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 - [awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi)
 - [Awesome-arduino](https://github.com/Lembed/Awesome-arduino)
+- [wechat-small-app](https://github.com/loganfreeman/wechat-small-app)
